@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4df2f809fb7b65a4e93d5f58cc82c6f7
+timeCreated: 1514391931
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alex Kidd in Miracle World (SMS)
+  fontNames:
+  - Alex Kidd in Miracle World (SMS)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
